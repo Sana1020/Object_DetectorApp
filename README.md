@@ -30,7 +30,7 @@ Also, download the EfficientDet Lite0 model (efficientdet_lite0.tflite) from Med
 streamlit run app.py
 
 
-Open the URL shown in the terminal (usually http://localhost:8501) in your browser.
+Open the URL shown in the terminal (usually http://localhost:8503) in your browser.
 
 Upload an image and see the detected objects.
 
